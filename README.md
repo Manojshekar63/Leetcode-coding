@@ -44,5 +44,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Manojshekar63/Leetcode-coding/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Manojshekar63/Leetcode-coding/tree/master/1517-find-users-with-valid-e-mails) |
 <!---LeetCode Topics End-->
