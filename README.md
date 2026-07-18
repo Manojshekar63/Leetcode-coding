@@ -41,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0435-non-overlapping-intervals) |
+## Database
+|  |
+| ------- |
+| [1517-find-users-with-valid-e-mails](https://github.com/Manojshekar63/Leetcode-coding/tree/master/1517-find-users-with-valid-e-mails) |
 <!---LeetCode Topics End-->
