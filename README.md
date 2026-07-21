@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0075-sort-colors) |
 | [0435-non-overlapping-intervals](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0435-non-overlapping-intervals) |
 | [0739-daily-temperatures](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0739-daily-temperatures) |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/Manojshekar63/Leetcode-coding/tree/master/2390-removing-stars-from-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
