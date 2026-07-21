@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0013-roman-to-integer) |
+| [0125-valid-palindrome](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0125-valid-palindrome) |
 | [2390-removing-stars-from-a-string](https://github.com/Manojshekar63/Leetcode-coding/tree/master/2390-removing-stars-from-a-string) |
 ## Array
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0125-valid-palindrome) |
 ## Simulation
 |  |
 | ------- |
