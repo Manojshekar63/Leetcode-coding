@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0075-sort-colors) |
+| [0162-find-peak-element](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0162-find-peak-element) |
 | [0435-non-overlapping-intervals](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0435-non-overlapping-intervals) |
 | [0739-daily-temperatures](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0739-daily-temperatures) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0992-subarrays-with-k-different-integers) |
@@ -76,4 +77,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
