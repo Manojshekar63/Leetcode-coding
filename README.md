@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0013-roman-to-integer) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Manojshekar63/Leetcode-coding/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0435-non-overlapping-intervals) |
 | [0739-daily-temperatures](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0739-daily-temperatures) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0992-subarrays-with-k-different-integers) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Manojshekar63/Leetcode-coding/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Stack
 |  |
 | ------- |
