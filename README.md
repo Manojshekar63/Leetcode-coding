@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0070-climbing-stairs) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Manojshekar63/Leetcode-coding/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0023-merge-k-sorted-lists) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
