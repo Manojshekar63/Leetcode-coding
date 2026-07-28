@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0626-exchange-seats](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/Manojshekar63/Leetcode-coding/tree/master/1045-customers-who-bought-all-products) |
+| [1164-product-price-at-a-given-date](https://github.com/Manojshekar63/Leetcode-coding/tree/master/1164-product-price-at-a-given-date) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Manojshekar63/Leetcode-coding/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1484-group-sold-products-by-the-date](https://github.com/Manojshekar63/Leetcode-coding/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Manojshekar63/Leetcode-coding/tree/master/1517-find-users-with-valid-e-mails) |
