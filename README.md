@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0013-roman-to-integer) |
 | [0347-top-k-frequent-elements](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0496-next-greater-element-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0992-subarrays-with-k-different-integers) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Manojshekar63/Leetcode-coding/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## String
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0162-find-peak-element) |
 | [0347-top-k-frequent-elements](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0435-non-overlapping-intervals) |
+| [0496-next-greater-element-i](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0518-coin-change-ii) |
 | [0739-daily-temperatures](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0977-squares-of-a-sorted-array) |
@@ -42,12 +44,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/Manojshekar63/Leetcode-coding/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0739-daily-temperatures) |
 ## Dynamic Programming
 |  |
