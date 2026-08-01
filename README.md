@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Manojshekar63/Leetcode-coding/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1484-group-sold-products-by-the-date](https://github.com/Manojshekar63/Leetcode-coding/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Manojshekar63/Leetcode-coding/tree/master/1517-find-users-with-valid-e-mails) |
+| [1907-count-salary-categories](https://github.com/Manojshekar63/Leetcode-coding/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/Manojshekar63/Leetcode-coding/tree/master/1934-confirmation-rate) |
 ## Sliding Window
 |  |
