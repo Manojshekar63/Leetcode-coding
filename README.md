@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0180-consecutive-numbers) |
+| [0185-department-top-three-salaries](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0185-department-top-three-salaries) |
 | [0550-game-play-analysis-iv](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0550-game-play-analysis-iv) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0626-exchange-seats](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0626-exchange-seats) |
