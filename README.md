@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0162-find-peak-element) |
 | [0347-top-k-frequent-elements](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0518-coin-change-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0435-non-overlapping-intervals) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0977-squares-of-a-sorted-array) |
 ## Database
