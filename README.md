@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0070-climbing-stairs) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Manojshekar63/Leetcode-coding/tree/master/2348-number-of-zero-filled-subarrays) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Manojshekar63/Leetcode-coding/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0992-subarrays-with-k-different-integers) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Manojshekar63/Leetcode-coding/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Manojshekar63/Leetcode-coding/tree/master/2348-number-of-zero-filled-subarrays) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Manojshekar63/Leetcode-coding/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Stack
 |  |
 | ------- |
