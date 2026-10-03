@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0392-is-subsequence) |
+| [0459-repeated-substring-pattern](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0459-repeated-substring-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0516-longest-palindromic-subsequence) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/Manojshekar63/Leetcode-coding/tree/master/2390-removing-stars-from-a-string) |
@@ -166,14 +167,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0459-repeated-substring-pattern) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0459-repeated-substring-pattern) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0459-repeated-substring-pattern) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
