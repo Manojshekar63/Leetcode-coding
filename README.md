@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0459-repeated-substring-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0516-longest-palindromic-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/Manojshekar63/Leetcode-coding/tree/master/2390-removing-stars-from-a-string) |
 ## Array
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/Manojshekar63/Leetcode-coding/tree/master/2390-removing-stars-from-a-string) |
@@ -73,10 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0518-coin-change-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Sorting
 |  |
@@ -185,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
