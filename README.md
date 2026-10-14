@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0518-coin-change-ii) |
 | [0739-daily-temperatures](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0739-daily-temperatures) |
+| [0905-sort-array-by-parity](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0992-subarrays-with-k-different-integers) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0435-non-overlapping-intervals) |
+| [0905-sort-array-by-parity](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0977-squares-of-a-sorted-array) |
 ## Database
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0392-is-subsequence) |
+| [0905-sort-array-by-parity](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0977-squares-of-a-sorted-array) |
 ## Simulation
