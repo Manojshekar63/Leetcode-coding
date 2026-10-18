@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0496-next-greater-element-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0992-subarrays-with-k-different-integers) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Manojshekar63/Leetcode-coding/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Manojshekar63/Leetcode-coding/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## String
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Manojshekar63/Leetcode-coding/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/Manojshekar63/Leetcode-coding/tree/master/2390-removing-stars-from-a-string) |
 ## Array
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0992-subarrays-with-k-different-integers) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Manojshekar63/Leetcode-coding/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Manojshekar63/Leetcode-coding/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Manojshekar63/Leetcode-coding/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Manojshekar63/Leetcode-coding/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0992-subarrays-with-k-different-integers) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Manojshekar63/Leetcode-coding/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Manojshekar63/Leetcode-coding/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Two Pointers
 |  |
