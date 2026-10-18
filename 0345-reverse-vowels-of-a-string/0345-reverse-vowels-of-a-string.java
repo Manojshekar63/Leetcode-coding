@@ -18,7 +18,7 @@ class Solution {
                 arr[i] = res.charAt(j++);
             }
         }
-
-        return new String(arr);
+        String res1=String.valueOf(arr);
+        return res1;
     }
 }
