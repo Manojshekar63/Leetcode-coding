@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0992-subarrays-with-k-different-integers) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Manojshekar63/Leetcode-coding/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Manojshekar63/Leetcode-coding/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Manojshekar63/Leetcode-coding/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Manojshekar63/Leetcode-coding/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Manojshekar63/Leetcode-coding/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Stack
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0977-squares-of-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Manojshekar63/Leetcode-coding/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Database
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0162-find-peak-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Manojshekar63/Leetcode-coding/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
