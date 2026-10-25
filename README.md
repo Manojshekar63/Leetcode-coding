@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0125-valid-palindrome) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0739-daily-temperatures) |
@@ -209,5 +211,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Manojshekar63/Leetcode-coding/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
